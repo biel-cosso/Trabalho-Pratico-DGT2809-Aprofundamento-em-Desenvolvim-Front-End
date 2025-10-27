@@ -1,0 +1,32 @@
+<h2>📚 Lista de Livros</h2>
+
+<table class="table table-striped mt-3">
+  <thead>
+    <tr>
+      <th>Título</th>
+      <th>Resumo</th>
+      <th>Autores</th>
+      <th>Ações</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let l of livros">
+      <td>{{ l.titulo }}</td>
+      <td>{{ l.resumo }}</td>
+      <td>
+        <ul>
+          <li *ngFor="let a of l.autores">{{ a }}</li>
+        </ul>
+      </td>
+      <td>
+        <button (click)="excluir(l.codigo)" class="btn btn-danger btn-sm">
+          Excluir
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div *ngIf="livros.length === 0" class="alert alert-warning mt-3">
+  Nenhum livro cadastrado.
+</div>
