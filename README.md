@@ -103,7 +103,7 @@ Campos: título, resumo, editora:
 
 <h2>📌 Campo dinâmico para adicionar autores</h2>
 
-<img width="886" height="188" alt="image" src="https://github.com/user-attachments/assets/22371eb6-17b0-4c4d-b64b-3759c09df42a" />
+<img width="907" height="226" alt="image" src="https://github.com/user-attachments/assets/1167cc2c-72b0-476e-8f26-3dd1643ec45d" />
 
 📎 Botão “Salvar” e validações visuais
 
