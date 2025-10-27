@@ -72,6 +72,7 @@ ng serve --open
 ```
 ---
 <h2>A aplicação abrirá automaticamente em:</h2>
+
 ```
 👉 http://localhost:4200
 ```
@@ -115,5 +116,10 @@ Validação de formulários Angular
 
 Uso do Bootstrap para responsividade
 ---
-## 👨‍🏫 Créditos Acadêmicos **Desenvolvido por:** Gabriel Cosso Cavalcanti **Disciplina:** *Aprofundamento em Desenvolvimento Front-End*
+<h2 align="center">👨‍🏫 Créditos Acadêmicos</h2>
+
+<p align="center">
+  <strong>Desenvolvido por:</strong> Gabriel Cosso Cavalcanti<br>
+  <strong>Disciplina:</strong> <em>Aprofundamento em Desenvolvimento Front-End</em>
+</p>
 ---
