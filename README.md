@@ -97,7 +97,7 @@ Exibe título, resumo, autores e editora:
 
 <h2>📌 Cadastro de Livro:</h2>
 
-<h1>Campos: título, resumo, editora:</h1>
+Campos: título, resumo, editora:
 
 <img width="1354" height="619" alt="image" src="https://github.com/user-attachments/assets/8378d775-a839-486d-925f-c20391455a69" />
 
