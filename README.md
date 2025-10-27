@@ -101,11 +101,12 @@ ng serve --open
 
 <img width="1354" height="619" alt="image" src="https://github.com/user-attachments/assets/8378d775-a839-486d-925f-c20391455a69" />
 
-📎 Campo dinâmico para adicionar autores
+<h2>📌 Campo dinâmico para adicionar autores</h2>
 
 <img width="886" height="188" alt="image" src="https://github.com/user-attachments/assets/22371eb6-17b0-4c4d-b64b-3759c09df42a" />
 
 📎 Botão “Salvar” e validações visuais
+
 ---
 <h2>🧠 Conceitos Aplicados</h2>
 
