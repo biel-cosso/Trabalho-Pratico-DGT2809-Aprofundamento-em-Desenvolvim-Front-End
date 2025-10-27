@@ -1,6 +1,6 @@
 # 📚 CRUD de Livros – Angular + TypeScript + Bootstrap
 
-Este projeto faz parte do **Trabalho Prático da disciplina DGT2809 – Aprofundamento em Desenvolvimento Front-End** (Estácio).  
+Este projeto faz parte do **Trabalho Prático da disciplina – Aprofundamento em Desenvolvimento Front-End** (Estácio).  
 Consiste em uma aplicação **CRUD de Livros**, desenvolvida em **Angular**, que permite **listar, cadastrar e excluir livros**, com controle de editoras e autores, utilizando **componentes standalone** e **serviços locais**.
 
 ---
