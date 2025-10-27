@@ -86,9 +86,9 @@ ng serve --open
 ---
 <h2>🖼️ Prints da Aplicação</h2>
 
-📌 Lista de Livros:
+<h2>📌 Lista de Livros:</h2>
 
-<h1>Exibe título, resumo, autores e editora:</h1>
+Exibe título, resumo, autores e editora:
 
 <img width="1359" height="623" alt="image" src="https://github.com/user-attachments/assets/25c2db05-827b-4fae-9158-f0068f5bd9c8" />
 
