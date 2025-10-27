@@ -63,29 +63,35 @@ No diretório do projeto Angular:
 
 ```bash
 npm install
+````
 ---
-### 2. Rodar o Servidor de Desenvolvimento
+### 2️⃣ Rodar o Servidor de Desenvolvimento
+
 ```bash
 ng serve --open
+```
 ---
-A aplicação abrirá automaticamente em:
+<h2>A aplicação abrirá automaticamente em:</h2>
+```
 👉 http://localhost:4200
+```
 ---
-🌐 Rotas da Aplicação
+<h2>🌐 Rotas da Aplicação</h2>
+
 | Rota     | Página            | Descrição                          |
 | :------- | :---------------- | :--------------------------------- |
 | `/lista` | Lista de Livros   | Exibe todos os livros cadastrados  |
 | `/dados` | Cadastro de Livro | Formulário para incluir novo livro |
 ---
-🖼️ Prints da Aplicação
+<h2>🖼️ Prints da Aplicação</h2>
 
-📌 Lista de Livros:
+<h2>📌 Lista de Livros:</h2>
 
 Exibe título, resumo, autores e editora
 
 Botão “Excluir” em cada linha
 
-📌 Cadastro de Livro:
+<h2>📌 Cadastro de Livro:</h2>
 
 Campos: título, resumo, editora
 
@@ -93,7 +99,7 @@ Campo dinâmico para adicionar autores
 
 Botão “Salvar” e validações visuais
 ---
-🧠 Conceitos Aplicados
+<h2>🧠 Conceitos Aplicados</h2>
 
 Componentes Standalone (Angular 16+)
 
@@ -109,9 +115,5 @@ Validação de formulários Angular
 
 Uso do Bootstrap para responsividade
 ---
-👨‍🏫 Créditos Acadêmicos
-
-Desenvolvido por: Gabriel Cosso Cavalcanti
-Disciplina: Aprofundamento em Desenvolvimento Front-End
-Instituição: Estácio de Sá
+## 👨‍🏫 Créditos Acadêmicos **Desenvolvido por:** Gabriel Cosso Cavalcanti **Disciplina:** *Aprofundamento em Desenvolvimento Front-End*
 ---
