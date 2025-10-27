@@ -88,25 +88,25 @@ ng serve --open
 
 <h2>📌 Lista de Livros:</h2>
 
-Exibe título, resumo, autores e editora:
+<h1>Exibe título, resumo, autores e editora:</h1>
 
 <img width="1359" height="623" alt="image" src="https://github.com/user-attachments/assets/25c2db05-827b-4fae-9158-f0068f5bd9c8" />
 
 
-Botão “Excluir” em cada linha
+<h1>Botão “Excluir” em cada linha</h1>
 
 
 <h2>📌 Cadastro de Livro:</h2>
 
-Campos: título, resumo, editora:
+<h1>Campos: título, resumo, editora:</h1>
 
 <img width="1354" height="619" alt="image" src="https://github.com/user-attachments/assets/8378d775-a839-486d-925f-c20391455a69" />
 
-Campo dinâmico para adicionar autores:
+<h1>Campo dinâmico para adicionar autores:</h1>
 
 <img width="886" height="188" alt="image" src="https://github.com/user-attachments/assets/22371eb6-17b0-4c4d-b64b-3759c09df42a" />
 
-Botão “Salvar” e validações visuais
+<h1>Botão “Salvar” e validações visuais</h1>
 ---
 <h2>🧠 Conceitos Aplicados</h2>
 
